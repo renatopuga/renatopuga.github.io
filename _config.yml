@@ -1,18 +1,9 @@
-works:
-- title: "The title of the article"
-  pdflink: "http://example.com/link-to-the.pdf"
-  book: "Where and when does the article appear"
-  note: "A short note displayed under the title"
-  coauthors: "Coauthor A, Coauthor B and Coauthor C"
-  links:
-    - url: "http://example.com/external-link-1"
-      text: "Text of the link"
-      note: "A short description of the link"
-    - url: "http://example.com/external-link-2"
-      text: "Text of the link"
-      note: "An unlimited number of links are supported!"
-  abstract: >
-    Abstract of the article. Don't forget the ">" above.
+relativeURLs = true
+title = "Renato Puga"
+theme = "academimal"
+sectionPagesMenu = "main"
+defaultContentLanguage = "en"
 
-- title: "The second article"
-  note: "The same syntax as the first article"
+[params]
+    shortbio = "Consultant Bioinformatician"
+    logo = "renatopuga-face.png" 

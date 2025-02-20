@@ -10,7 +10,7 @@ Olá! Sou Consultor de Bioinformática em projetos de Medicina de Precisão em g
 
 # Consultorias
 - Hospital Israelita Albert Einstein
-- DLE Diagnósticos Especializados
+- DLE Diagnósticos Laboratoriais Especializados
 - Grupo Pardini
 - Varsomics
 - Oracle

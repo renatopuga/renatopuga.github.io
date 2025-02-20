@@ -7,6 +7,6 @@ Olá! Sou Consultor de Bioinformática em projetos de Medicina de Precisão em g
 
 ## Projetos
 
-- Somático:
--   https://github.com/renatopuga/lmabrasil-hg38
--   https://github.com/renatopuga/somatico
+**Pipelines**
+-   [LMA Brasil hg38](https://github.com/renatopuga/lmabrasil-hg38)
+-   [Somático](https://github.com/renatopuga/somatico)
